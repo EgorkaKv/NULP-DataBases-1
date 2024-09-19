@@ -14,7 +14,9 @@ VALUES
 ('Warner Bros', 1923, 'David Zaslav'),
 ('Universal Pictures', 1912, 'Donna Langley'),
 ('Pixar', 1986, 'Jim Morris'),
-('20th Century Studios', 1935, 'Steve Asbell');
+('20th Century Studios', 1935, 'Steve Asbell'),
+('Miramax', 1979, 'Bill Block'),
+('A24', 2012, 'Daniel Katz');
 
 -- Insert data into Director table
 INSERT INTO IMDB.Director (name, birthdate, biography)
